@@ -1,0 +1,15 @@
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.csprojAssemblyReference.cache
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.AssemblyInfoInputs.cache
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.AssemblyInfo.cs
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.exe
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.deps.json
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.runtimeconfig.json
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.runtimeconfig.dev.json
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.dll
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\ListHTTPC#.pdb
+C:\Users\Win 10\ListHTTPC#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.csproj.CopyComplete
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.dll
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.pdb
+C:\Users\Win 10\ListHTTPC#\obj\Debug\netcoreapp3.1\ListHTTPC#.genruntimeconfig.cache
